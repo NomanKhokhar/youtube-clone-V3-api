@@ -1,4 +1,4 @@
-![Project Screenshot](./E-com.PNG)
+![Project Screenshot](./image.png)
 
 # Youtube Clone by Using the youtube provided API
 
